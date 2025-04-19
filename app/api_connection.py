@@ -17,7 +17,7 @@ def get_stock_data(stock_symbol, time_series):
     params = {
         "function": time_series_options[time_series],
         "symbol": stock_symbol,
-        "apikey": "HJAWPZECXKX9XKXA",
+        "apikey": "api key",
     }
 
     response = requests.get(base_url, params=params)

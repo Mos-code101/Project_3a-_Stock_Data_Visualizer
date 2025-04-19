@@ -1,0 +1,8 @@
+Flask
+requests
+pandas
+pygal
+matplotlib
+
+
+
